@@ -4,3 +4,5 @@ pysocks
 pyaes
 motor
 pymongo
+aiohttp
+
